@@ -1,0 +1,27 @@
+{
+    "lin": {
+        "client": "client-2.2.4.0/XEP-Pro-lin",
+        "daemon": "daemon-1.0.5.0/xepdl",
+        "omnidaemon": "testnet",
+        "setup": "client-2.2.4.0/XEP-Pro-setup-linux.run",
+        "updater": "updater-2.1.0/Pro-wallet-updater-lin"
+    },
+    "mac": {
+        "client": "client-2.2.4.0/XEP-Pro-mac",
+        "daemon": "daemon-1.0.5.0/xepdm",
+        "omnidaemon": "testnet",
+        "setup": "client-2.2.4.0/XEP-Pro-setup-mac.dmg",
+        "updater": "updater-2.1.0/Pro-wallet-updater-mac"
+    },
+    "version": {
+        "client": 2240,
+        "daemon": 1050
+    },
+    "win": {
+        "client": "client-2.2.4.0/XEP-Pro.exe",
+        "daemon": "daemon-1.0.5.0/xepd.exe",
+        "omnidaemon": "testnet",
+        "setup": "client-2.2.4.0/XEP-Pro-setup.exe",
+        "updater": "updater-2.1.0/Pro-wallet-updater.exe"
+    }
+}

@@ -1,17 +1,20 @@
 {
-  "win": {
-    "updater": "XEP Pos updater 1.0.0",
-    "client": "XEP Pos client 0.1.0",
-    "core": "XEP Core version v1.0.5.0"
-  },
-  "mac": {
-    "updater": "",
-    "client": "",
-    "core": ""
-  },
-  "lin": {
-    "updater": "",
-    "client": "",
-    "core": ""
-  }
+    "data": {
+        "win": {
+            "updater": "XEP Pos updater 1.0.0",
+            "client": "XEP Pos client 0.1.0",
+            "core": "XEP Core version v1.0.5.0"
+        },
+        "mac": {
+            "updater": "",
+            "client": "",
+            "core": ""
+        },
+        "lin": {
+            "updater": "",
+            "client": "",
+            "core": ""
+        }
+    },
+    "error": null
 }

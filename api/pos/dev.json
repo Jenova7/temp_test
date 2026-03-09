@@ -2,27 +2,27 @@
     "data": {
         "win": {
             "updater": "XEP Pos updater 1.0.0",
-            "updater_bin": "XEP Pos updater 1.0.0",
+            "updater_bin": "dev_u/XEP-Pos-updater.exe",
             "client": "XEP Pos client 0.1.0",
-            "client_bin": "XEP Pos client 0.1.0",
+            "client_bin": "dev_p/XEP-Pos-client.exe",
             "core": "XEP Core version v1.0.5.0",
-            "core_bin": "XEP Core version v1.0.5.0"
+            "core_bin": "dev_c/xepd.exe"
         },
         "mac": {
             "updater": "XEP Pos updater 1.0.0",
-            "updater_bin": "XEP Pos updater 1.0.0",
+            "updater_bin": "dev_u/XEP-Pos-updaterm",
             "client": "XEP Pos client 0.1.0",
-            "client_bin": "XEP Pos client 0.1.0",
+            "client_bin": "dev_p/XEP-Pos-clientm",
             "core": "XEP Core version v1.0.5.0",
-            "core_bin": "XEP Core version v1.0.5.0"
+            "core_bin": "dev_c/xepdm"
         },
         "lin": {
             "updater": "XEP Pos updater 1.0.0",
-            "updater_bin": "XEP Pos updater 1.0.0",
+            "updater_bin": "dev_u/XEP-Pos-updaterl",
             "client": "XEP Pos client 0.1.0",
-            "client_bin": "XEP Pos client 0.1.0",
+            "client_bin": "dev_p/XEP-Pos-clientl",
             "core": "XEP Core version v1.0.5.0",
-            "core_bin": "XEP Core version v1.0.5.0"
+            "core_bin": "dev_c/xepdl"
         }
     },
     "error": null

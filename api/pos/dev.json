@@ -10,17 +10,17 @@
         },
         "mac": {
             "updater": "XEP Pos updater 1.0.0",
-            "updater_bin": "dev_u/XEP-Pos-updaterm",
+            "updater_bin": "dev_u/XEP-Pos-updater-m",
             "client": "XEP Pos client 0.1.0",
-            "client_bin": "dev_p/XEP-Pos-clientm",
+            "client_bin": "dev_p/XEP-Pos-client-m",
             "core": "XEP Core version v1.0.5.0",
             "core_bin": "dev_c/xepdm"
         },
         "lin": {
             "updater": "XEP Pos updater 1.0.0",
-            "updater_bin": "dev_u/XEP-Pos-updaterl",
+            "updater_bin": "dev_u/XEP-Pos-updater-l",
             "client": "XEP Pos client 0.1.0",
-            "client_bin": "dev_p/XEP-Pos-clientl",
+            "client_bin": "dev_p/XEP-Pos-client-l",
             "core": "XEP Core version v1.0.5.0",
             "core_bin": "dev_c/xepdl"
         }

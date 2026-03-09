@@ -2,27 +2,27 @@
     "data": {
         "win": {
             "updater": "XEP Pos updater 1.0.0",
-            "updater_bin": "dev_u/XEP-Pos-updater.exe",
+            "updater_sha256": "xxx",
             "client": "XEP Pos client 0.1.0",
-            "client_bin": "dev_p/XEP-Pos-client.exe",
+            "client_bin": "xxx",
             "core": "XEP Core version v1.0.5.0",
-            "core_bin": "dev_c/xepd.exe"
+            "core_bin": "xxx"
         },
         "mac": {
             "updater": "XEP Pos updater 1.0.0",
-            "updater_bin": "dev_u/XEP-Pos-updater-m",
+            "updater_sha256": "xxx",
             "client": "XEP Pos client 0.1.0",
-            "client_bin": "dev_p/XEP-Pos-client-m",
+            "client_bin": "xxx",
             "core": "XEP Core version v1.0.5.0",
-            "core_bin": "dev_c/xepdm"
+            "core_bin": "xxx"
         },
         "lin": {
             "updater": "XEP Pos updater 1.0.0",
-            "updater_bin": "dev_u/XEP-Pos-updater-l",
+            "updater_sha256": "b34b34d2a471057438516e2a812d3c460cf5c6bd19435cc22e132d503ac981bb",
             "client": "XEP Pos client 0.1.0",
-            "client_bin": "dev_p/XEP-Pos-client-l",
+            "client_sha256": "ce56ba8c46995412e5a24fcf83a9ae32a4ff7e30b426d454e84511a94c9dbdc8",
             "core": "XEP Core version v1.0.5.0",
-            "core_bin": "dev_c/xepdl"
+            "core_sha256": "096a7a7ae7a0a6aed8b441bd15147b049afb8ecaf888708c97edfeba5a54fb70"
         }
     },
     "error": null

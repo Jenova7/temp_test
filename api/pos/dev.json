@@ -2,9 +2,9 @@
     "data": {
         "win": {
             "updater": "XEP Pos updater 1.0.0",
-            "updater_sha256": "3ad95cae461d43064cd407e63344c898da10db262fcfe06da5c83fa0b51d79ef",
+            "updater_sha256": "705e4a8d814dee9f666b6577b187f5b73cbe2da39812ac04ef32fa5b2f969149",
             "client": "XEP Pos client 1.0.0",
-            "client_sha256": "cde1c97f89c459dad60f7d6d3e39d1791fb012947c12aade8690b8b0feced637",
+            "client_sha256": "9891166d79d4c19dcd27ca16af2f2eb8a9b9bd1b10d319555d09d641fe9e114e",
             "core": "XEP Core version v1.0.5.0",
             "core_sha256": "3ee697bb728ba53098c92c613952862ee7ffd84594bda3562857cbbd01327dd3"
         },

@@ -9,12 +9,7 @@
             "core_sha256": "3ee697bb728ba53098c92c613952862ee7ffd84594bda3562857cbbd01327dd3"
         },
         "mac": {
-            "updater": "XEP Pos updater 1.0.0",
-            "updater_sha256": "xxx",
-            "client": "XEP Pos client 1.0.0",
-            "client_sha256": "xxx",
-            "core": "XEP Core version v1.0.5.0",
-            "core_sha256": "xxx"
+            "package": "1.0.0"
         },
         "lin": {
             "updater": "XEP Pos updater 1.0.0",
